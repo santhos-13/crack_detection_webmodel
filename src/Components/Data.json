@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "position" : {
+            "lat": 13.0827,
+            "lng": 80.2707
+          },
+        "text": "positive",
+        "imagesrc": "https://images.unsplash.com/photo-1611003228941-98852ba62227?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YmFieSUyMGRvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"   
+    },
+    {
+        "id": 2,
+        "position" : {
+            "lat": 13.0694,
+            "lng": 80.1948
+          },
+        "text": "negative",
+        "imagesrc": "https://images.unsplash.com/photo-1561650983-da1423904f5f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8YmFieSUyMGRvZ3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"   
+    }
+]
